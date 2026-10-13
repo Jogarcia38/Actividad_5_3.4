@@ -14,5 +14,5 @@ Primero inicio de sesión en la plataforma aws, luego selecciono MyNotebook y da
 
 ![Evidencia 1](Pantallazos/Imagen%205.4.png)
 
-Posteriormente se utilizó la terminal de JupyterLab, se clonó el repositorio remoto y se accedió al directorio correspondiente; luego, se incorporó el archivo 3_4 - machinelearning.ipynb al repositorio y se verificó su estado mediante git status; a continuación, se agregó el archivo con git add y se configuraron los datos de usuario requeridos por Git para realizar el commit. Por último, se registraron los cambios mediante un commit con el mensaje “Agregar actividad 3.4 Machine Learning” y se ejecutó git push origin main, permitiendo enviar los cambios realizados al repositorio remoto.
+Posteriormente se abrio una terminal en JupyterLab, se clonó el repositorio remoto y se accedió al directorio correspondiente; luego, se incorporó el archivo 3_4 - machinelearning.ipynb al repositorio y se verificó su estado mediante git status; a continuación, se agregó el archivo con git add y se configuraron los datos de usuario requeridos por Git para realizar el commit. Por último, se registraron los cambios mediante un commit con el mensaje “Agregar actividad 3.4 Machine Learning” y se ejecutó git push origin main, permitiendo enviar los cambios realizados al repositorio remoto.
 
