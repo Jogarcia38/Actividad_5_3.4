@@ -16,3 +16,9 @@ Primero inicio de sesión en la plataforma aws, luego selecciono MyNotebook y da
 
 Posteriormente se abrio una terminal en JupyterLab, se clonó el repositorio remoto y se accedió al directorio correspondiente; luego, se incorporó el archivo 3_4 - machinelearning.ipynb al repositorio y se verificó su estado mediante git status; a continuación, se agregó el archivo con git add y se configuraron los datos de usuario requeridos por Git para realizar el commit. Por último, se registraron los cambios mediante un commit con el mensaje “Agregar actividad 3.4 Machine Learning” y se ejecutó git push origin main, permitiendo enviar los cambios realizados al repositorio remoto.
 
+# Paso 1: Explorar los datos
+
+![Evidencia 1](Pantallazos/Imagen%205.5.png)
+
+Se exploró el conjunto de datos, se identificaron 310 registros y 7 columna, tambien se revisaron las variables y se inició la preparación de los datos, ubicando la columna objetivo class en la primera posición para continuar con el procesamiento en XGBoost.
+
